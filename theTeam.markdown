@@ -8,7 +8,7 @@ permalink: /theTeam/
 <li>Loughborough University, UK</li>
 <ul>
   <li><a href="https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/">Andrea Soltoggio</a></li>
-  <li><a href="https://github.com/dlpbc">Ese Ben</a></li>
+  <li><a href="dlpbc.github.io">Ese Ben</a></li>
   <li><a href="https://uk.linkedin.com/in/jeffery-dick-a0894819a">Jeff Dick</a></li>
 </ul>
 <li>Vanderbilt University</li>
